@@ -1,4 +1,4 @@
-import setRefCurrent from '@niche-works/react/utils/setRefCurrent';
+import setRefCurrent from '@niche-works/react-utils/utils/setRefCurrent';
 import type { Ref } from 'react';
 import { isFunction, isPlainObject } from 'remeda';
 import type { RefResult, RefValue } from './types';
